@@ -2856,5 +2856,8 @@ img{
 	  text-align: center;	  
 	}
 
-	
+}
+
+#mixit-container-events{
+	display: block;
 }
